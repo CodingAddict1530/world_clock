@@ -4,5 +4,4 @@ A Flutter World Time App.
 
 ## Visit
 
-Visit [here](...) to see for yourself.
-Or find it on PlayStore via [this link](...)
+Visit [here](https://fusionclock.netlify.app/) to see for yourself.
